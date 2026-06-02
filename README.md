@@ -7,6 +7,10 @@ This project demonstrates a smart home automation system using ESP32 and relay m
 - Monitor device status
 - Enable IoT-based home automation
 
+## Circuit Diagram
+
+![Circuit Diagram](Circuit_Diagram/home_automation_circuit.png)
+
 ## Components Required
 - ESP32
 - Relay Module
