@@ -36,6 +36,11 @@ The ESP32 connects to a Wi-Fi network and receives commands from the mobile appl
 - Low-cost implementation
 - Scalable design
 
+ ## Project Report
+
+The detailed project report is available in the Report folder and includes the system architecture, circuit diagram, methodology, implementation details, results, applications, and future scope of the proposed IoT-Based Smart Home Automation System.
+
+
 ## Applications
 - Smart homes
 - Energy management
