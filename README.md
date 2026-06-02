@@ -9,7 +9,7 @@ This project demonstrates a smart home automation system using ESP32 and relay m
 
 ## Circuit Diagram
 
-![Circuit Diagram](Circuit_Diagram/home_automation_circuit.png)
+![Circuit Diagram](Circuit_Diagram/home_automation_circuit.png.png)
 
 ## Components Required
 - ESP32
