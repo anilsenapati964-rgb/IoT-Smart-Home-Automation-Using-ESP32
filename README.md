@@ -11,12 +11,14 @@ This project demonstrates a smart home automation system using ESP32 and relay m
 
 ![Circuit Diagram](Circuit_Diagram/home_automation_circuit.png.png)
 
-## Components Required
-- ESP32
-- Relay Module
-- LED Bulb / Fan
-- Jumper Wires
+## Components Used
+
+- ESP32 Development Board
+- 2-Channel Relay Module
+- AC Bulb
+- AC Fan
 - Wi-Fi Network
+- Jumper Wires
 
 ## Working Principle
 The ESP32 connects to a Wi-Fi network and receives commands from the mobile application. Based on the received command, the relay switches connected appliances ON or OFF.
