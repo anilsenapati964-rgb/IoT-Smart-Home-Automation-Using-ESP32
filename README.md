@@ -23,6 +23,13 @@ This project demonstrates a smart home automation system using ESP32 and relay m
 ## Working Principle
 The ESP32 connects to a Wi-Fi network and receives commands from the mobile application. Based on the received command, the relay switches connected appliances ON or OFF.
 
+## Working
+
+1. ESP32 connects to a Wi-Fi network.
+2. ESP32 hosts a local web server.
+3. Users access the ESP32 IP address through a web browser.
+4. ON/OFF commands are sent from the browser.
+5. Relay module switches the connected appliances.
 ## Features
 - Remote appliance control
 - Real-time operation
