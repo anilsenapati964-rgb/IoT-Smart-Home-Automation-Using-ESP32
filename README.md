@@ -11,18 +11,6 @@ This project demonstrates a smart home automation system using ESP32 and relay m
 
 ![Circuit Diagram](Circuit_Diagram/home_automation_circuit.png.png)
 
-## Project Architecture
-
-Wi-Fi Network
-     │
-     ▼
-   ESP32
-     │
-     ▼
-2-Channel Relay Module
-   │          │
-   ▼          ▼
- Bulb       Fan
 ## Components Used
 
 - ESP32 Development Board
